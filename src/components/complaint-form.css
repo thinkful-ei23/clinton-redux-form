@@ -1,0 +1,7 @@
+label, input, textarea, select {
+  display: block;
+}
+
+input, textarea, select {
+  margin-bottom: 12px;
+}
